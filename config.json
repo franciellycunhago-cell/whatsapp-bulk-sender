@@ -1,0 +1,29 @@
+{
+  "ritmo": {
+    "segundosMin": 25,
+    "segundosMax": 90,
+    "tamanhoLote": 15,
+    "pausaLoteMinutos": 12,
+    "limiteDiario": 80,
+    "simularDigitacao": true
+  },
+  "janela": {
+    "horaInicio": 9,
+    "horaFim": 19,
+    "diasSemana": [1, 2, 3, 4, 5, 6]
+  },
+  "seguranca": {
+    "validarNumeroNoWhatsapp": true,
+    "exigirOptin": true,
+    "pausarAposFalhasSeguidas": 5
+  },
+  "aquecimento": {
+    "curva": [
+      { "ateDia": 3, "porDia": 8 },
+      { "ateDia": 7, "porDia": 18 },
+      { "ateDia": 14, "porDia": 35 },
+      { "ateDia": null, "porDia": 70 }
+    ]
+  },
+  "perfil": "padrao"
+}

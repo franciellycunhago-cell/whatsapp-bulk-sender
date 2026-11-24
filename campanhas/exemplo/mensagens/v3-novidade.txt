@@ -1,0 +1,5 @@
+{{primeiro_nome}}, {bom dia|tudo bem}? Aqui é [SEU NOME], da [NOME DA LOJA] — salva esse número, é por aqui que vamos avisar as novidades.
+
+Chegou coisa nova e quem já comprou vê primeiro. {Quer que eu te mande?|Te mando as fotos?}
+
+(responde SAIR se não quiser mais receber)

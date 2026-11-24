@@ -1,0 +1,10 @@
+{
+  "ritmo": {
+    "segundosMin": 30,
+    "segundosMax": 120,
+    "tamanhoLote": 10,
+    "pausaLoteMinutos": 15,
+    "limiteDiario": 80
+  },
+  "imagem": null
+}

@@ -1,0 +1,5 @@
+{Oi|Olá}, {{primeiro_nome}}! Aqui é [SEU NOME], da [NOME DA LOJA] — esse é o nosso número novo, só de ofertas.
+
+Você já comprou com a gente aí em {{cidade}} e separei uma condição antes de abrir pro público.
+---
+Posso te mandar os detalhes por aqui? (se não quiser receber, é só responder SAIR que eu tiro da lista)

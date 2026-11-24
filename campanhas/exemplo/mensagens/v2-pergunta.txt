@@ -1,0 +1,5 @@
+{Oi|Olá}, {{primeiro_nome}}, tudo bem? Aqui é da [NOME DO CLIENTE] — abrimos esse número novo pra avisar quem já é cliente das promoções primeiro.
+
+Rapidinho: você ainda {procura|tem interesse em} [PRODUTO/SERVIÇO]?
+
+É que abriu uma condição nova essa semana e lembrei de você. Se preferir não receber, responde SAIR.

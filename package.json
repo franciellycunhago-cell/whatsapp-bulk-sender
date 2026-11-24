@@ -1,0 +1,22 @@
+{
+  "name": "disparo-whatsapp",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Disparo controlado de mensagens no WhatsApp (sem API oficial) com ritmo aleatorio, variacoes de copy, opt-out automatico e cota de aquecimento por chip",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "teste": "node src/index.js --dry-run",
+    "diario": "node src/index.js --diario --sim",
+    "chip": "node src/chip.js",
+    "exportar": "node src/exportar.js",
+    "dividir": "node src/dividir.js",
+    "sair": "node src/logout.js",
+    "varrer-optout": "node src/varrer-optout.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.5.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

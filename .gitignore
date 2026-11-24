@@ -1,0 +1,8 @@
+node_modules/
+sessoes/
+optout.csv
+respostas.csv
+export-*.csv
+campanhas/*/envios.csv
+campanhas/*/contatos.csv
+!campanhas/exemplo/contatos.csv
